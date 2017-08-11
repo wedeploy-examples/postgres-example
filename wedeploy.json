@@ -1,0 +1,8 @@
+{
+	"id": "db",
+	"volume": "/var/lib/postgresql/data",
+	"port": 5432,
+	"env": {
+		"POSTGRES_PASSWORD": "passw0rd"
+	}
+}
