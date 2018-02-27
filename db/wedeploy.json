@@ -1,8 +1,8 @@
 {
-	"id": "db",
-	"image": "postgres",
-	"volume": "/var/lib/postgresql/data",
-	"env": {
-		"POSTGRES_PASSWORD": "passw0rd"
-	}
+  "id": "db",
+  "image": "postgres",
+  "volume": "/var/lib/postgresql/data",
+  "env": {
+    "POSTGRES_PASSWORD": "passw0rd"
+  }
 }
