@@ -8,7 +8,7 @@ An example of [Postgres](https://hub.docker.com/_/postgres/) and [Adminer](https
 2. Clone this repository.
 3. Open the project with your command line and run `we deploy -p yourproject`.
 4. Go to `https://admin-yourproject.wedeploy.io/`.
-5. Log in using `postgres` as user and `passw0rd` as password.
+5. Log in using **`postgres`** as user and **`passw0rd`** as password.
 
 ## License
 
