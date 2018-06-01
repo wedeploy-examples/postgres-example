@@ -1,7 +1,8 @@
 {
   "id": "db",
-  "image": "postgres",
+  "image": "postgres:10.4-alpine",
   "env": {
+    "POSTGRES_USER": "root",
     "POSTGRES_PASSWORD": "passw0rd"
   },
   "volumes": {
